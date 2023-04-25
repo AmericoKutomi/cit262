@@ -9,10 +9,12 @@ I am Brazilian and live in Sao Paulo, Sao Paulo city. My life is very busy, work
 
 I am married, have six children and two grandchildren. 
 
+`I love to code`
+
 ## Favorite Hobbies
 ---
 I like to do different things, so it is better to categorize:
-```
+
 **Music**
 * Listen to Music
 * Sing
@@ -27,4 +29,3 @@ I like to do different things, so it is better to categorize:
     * Workout
     * Swim
     * Ride a bicycle
-```
