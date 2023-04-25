@@ -24,8 +24,8 @@ I like to do different things, so it is better to categorize:
     * flute
 
 **Sports**
-    * Play tennis
-    * Run
-    * Workout
-    * Swim
-    * Ride a bicycle
+* Play tennis
+* Workout
+* Swim
+* Run
+* Ride a bicycle
